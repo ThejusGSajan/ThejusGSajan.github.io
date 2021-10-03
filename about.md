@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Computer Science 1st year undergrad at [Amrita University, Amritapuri](https://www.amrita.edu/campus/amritapuri). From the display picture, you've probably figured out that Pokémon continues to fascinate me at this age xD. A Potterhead, who enjoys cooking and music, I like referring to myself in the third person whenever possible. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
++ Casual Gamer
++ Hardware Enthusiast
++ Avid Photographer
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thejusgsajan@outlook.com](mailto:thejusgsajan@outlook.com)
