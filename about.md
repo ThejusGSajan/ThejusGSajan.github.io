@@ -14,5 +14,5 @@ I'm a Computer Science 1st year undergrad at [Amrita University, Amritapuri](htt
 
 ### Contacts
 
-[thejusgsajan@gmail.com](mailto:thejusgsajan@gmail.com)
-[thejusgsajan@outlook.com](mailto:thejusgsajan@outlook.com)
++ [thejusgsajan@gmail.com](mailto:thejusgsajan@gmail.com)
++ [thejusgsajan@outlook.com](mailto:thejusgsajan@outlook.com)
